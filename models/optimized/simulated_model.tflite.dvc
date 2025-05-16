@@ -1,0 +1,5 @@
+outs:
+- md5: eafe0febeb8d51c62fe57480572056ab
+  size: 173
+  hash: md5
+  path: simulated_model.tflite
