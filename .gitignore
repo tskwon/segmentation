@@ -1,0 +1,9 @@
+data/raw/*
+models/matlab/*
+models/optimized/*.tflite
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.class
+.env
+*.mat
