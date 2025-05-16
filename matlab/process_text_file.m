@@ -1,0 +1,3 @@
+function process_text_file(inputPath, outputPath)
+    % 함수 내용...
+end
